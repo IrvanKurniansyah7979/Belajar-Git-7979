@@ -1,5 +1,8 @@
 <?php
 
+//update 9 desember 09.45 
+//irvan kurniansyah
+
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
 
